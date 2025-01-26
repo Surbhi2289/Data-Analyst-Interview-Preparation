@@ -10,4 +10,4 @@ Additionally, I have worked on various ETL processes, where I handle the extract
 
 
 
-IQ2: How do you remove duplicate entry from multiple table using SQL ?
+IQ2: How do you remove duplicate entry from multiple table using SQL?
